@@ -9,3 +9,5 @@ This repository contains my notes and experiments while learning:
 - MetaMask
 - Ethereum testnets
 - Gas fees
+  
+Learning Ethereum ecosystem and experimenting with blockchain development.
